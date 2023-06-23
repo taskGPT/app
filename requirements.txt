@@ -4,4 +4,3 @@ pandas
 pyQT5
 docxtpl
 pathlib
-pip-upgrade
