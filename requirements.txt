@@ -1,6 +1,7 @@
+#!/bin/bash
 dash==2.10.0
-pandas
-pyQT5
-docxtpl
-pathlib
-upgrade pip
+pip install pandas
+pip install pyQT5
+pip install docxtpl
+pip install pathlib
+pip install --upgrade pip
