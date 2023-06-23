@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 dash==2.10.0
 pandas
 pyQT5
