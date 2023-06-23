@@ -1,6 +1,6 @@
 #!/bin/bash
 dash==2.10.0
-pip install pandas
+pandas
 pip install pyQT5
 pip install docxtpl
 pip install pathlib
